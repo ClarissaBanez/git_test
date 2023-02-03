@@ -1,0 +1,38 @@
+h1, p{
+    text-align: center;
+    font-family:sans-serif;
+  }
+  
+  body{
+    background-color: tan;
+    padding: 1em
+  
+  }
+  
+  label{
+    display: block;
+    text-align:left;
+    font-family: sans-serif;
+    padding: 0.5em 0 0.5em 0;
+  }
+  
+  select{
+    width: 98%;
+    height: 2em;
+  }
+  
+  input{
+    width: 98%;
+    margin: 0 auto;
+  }
+  
+  input[type="radio"], input[type="checkbox"]{
+    width: unset;
+  }
+  
+  textarea {
+    width: 98%;
+    height: 4em;
+  }
+  
+  
